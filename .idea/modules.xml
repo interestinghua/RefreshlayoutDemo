@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RefreshlayoutDemo.iml" filepath="$PROJECT_DIR$/RefreshlayoutDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bgaadapter/bgaadapter.iml" filepath="$PROJECT_DIR$/bgaadapter/bgaadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bgabanner/bgabanner.iml" filepath="$PROJECT_DIR$/bgabanner/bgabanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bgarefreshlayout/bgarefreshlayout.iml" filepath="$PROJECT_DIR$/bgarefreshlayout/bgarefreshlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bgaswipeitemlayout/bgaswipeitemlayout.iml" filepath="$PROJECT_DIR$/bgaswipeitemlayout/bgaswipeitemlayout.iml" />
+    </modules>
+  </component>
+</project>
+
